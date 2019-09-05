@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-admin/ace-admin.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-admin/ace-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-app/ace-app.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-app/ace-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-auth/ace-auth.iml" filepath="$PROJECT_DIR$/ace-security/ace-auth/ace-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-auth/ace-auth-client/ace-auth-client.iml" filepath="$PROJECT_DIR$/ace-security/ace-auth/ace-auth-client/ace-auth-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-auth/ace-auth-common/ace-auth-common.iml" filepath="$PROJECT_DIR$/ace-security/ace-auth/ace-auth-common/ace-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-auth/ace-auth-server/ace-auth-server.iml" filepath="$PROJECT_DIR$/ace-security/ace-auth/ace-auth-server/ace-auth-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-common/ace-common.iml" filepath="$PROJECT_DIR$/ace-security/ace-common/ace-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-control/ace-control.iml" filepath="$PROJECT_DIR$/ace-security/ace-control/ace-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-gate/ace-gate.iml" filepath="$PROJECT_DIR$/ace-security/ace-gate/ace-gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-generator/ace-generator.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-generator/ace-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-interface/ace-interface.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-interface/ace-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-modules.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-control/ace-monitor/ace-monitor.iml" filepath="$PROJECT_DIR$/ace-security/ace-control/ace-monitor/ace-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-pc/ace-pc.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-pc/ace-pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-pc-after/ace-pc-after.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-pc-after/ace-pc-after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-security.iml" filepath="$PROJECT_DIR$/ace-security/ace-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-sidecar/ace-sidecar.iml" filepath="$PROJECT_DIR$/ace-security/ace-sidecar/ace-sidecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-sidecar/ace-sidecar-client-demo/ace-sidecar-client-demo.iml" filepath="$PROJECT_DIR$/ace-security/ace-sidecar/ace-sidecar-client-demo/ace-sidecar-client-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-sidecar/ace-sidecar-server/ace-sidecar-server.iml" filepath="$PROJECT_DIR$/ace-security/ace-sidecar/ace-sidecar-server/ace-sidecar-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-tool/ace-tool.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-tool/ace-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ace-security/ace-modules/ace-pda/ace_pda.iml" filepath="$PROJECT_DIR$/ace-security/ace-modules/ace-pda/ace_pda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace2.iml" filepath="$PROJECT_DIR$/.idea/workspace2.iml" />
+    </modules>
+  </component>
+</project>
